@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Alice",
+    "age": 22,
+    "city": "New York",
+    "occupation": "Software Engineer"
+  },
+  {
+    "name": "Bob",
+    "age": 30,
+    "city": "London",
+    "occupation": "Doctor"
+  },
+  {
+    "name": "Charlie",
+    "age": 25,
+    "city": "Paris",
+    "occupation": "Teacher"
+  },
+  {
+    "name": "David",
+    "age": 35,
+    "city": "Tokyo",
+    "occupation": "Artist"
+  },
+  {
+    "name": "Eve",
+    "age": 28,
+    "city": "Sydney",
+    "occupation": "Writer"
+  },
+  {
+    "name": "Frank",
+    "age": 20,
+    "city": "Mumbai",
+    "occupation": "Student"
+  },
+  {
+    "name": "Grace",
+    "age": 40,
+    "city": "Berlin",
+    "occupation": "Musician"
+  }
+]
